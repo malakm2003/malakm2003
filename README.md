@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Malak Abdelhamid and I am currently studying computer engineering as a senior at San Diego State University.
 
-Some of my interests include data science, machine learning, and AI. On the other hand, I am also interest in full stack engineering. My favorite language to program in is Python!
+Some of my interests include data science, machine learning, and AI. On the other hand, I am also interested in full stack engineering. My favorite language to program in is Python!
 I am currently working on my senior design project with a group of other computer and electrical engineers. A fun fact about me is that I am Egyptian and I love to travel!
 
 <!--
